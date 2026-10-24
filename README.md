@@ -1,4 +1,4 @@
-# feditext-sim
+# feditextsim
 
 Builds [Feditext](https://github.com/feditext/feditext) — a free, open-source iOS Mastodon client by the Feditext contributors (a continuation of Metabolist's Metatext), licensed GPL-3.0 — for the **iOS Simulator** on GitHub Actions, so it can be run on a cloud simulator (e.g. Appetize.io) without a Mac.
 
